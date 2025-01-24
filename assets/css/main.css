@@ -803,6 +803,9 @@ section,
   position: relative;
   z-index: 1;
 }
+#loom-companion-mv3{
+  display: none;
+}
 
 .stats .stats-item {
   background-color: var(--surface-color);
