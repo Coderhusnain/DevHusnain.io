@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coderhusnain.github.io/DevHusnain.io/sitemap.xml
