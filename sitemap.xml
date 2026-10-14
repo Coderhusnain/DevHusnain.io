@@ -16,6 +16,34 @@
         <loc>https://coderhusnain.github.io/DevHusnain.io/services.html</loc>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/full-stack-web-development.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/ai-development-chatbot-openai-n8n-make.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/frontend-development-react-vue.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/backend-development-nodejs-python.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/web-scraping-lead-generation.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/wordpress-development.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://coderhusnain.github.io/DevHusnain.io/wordpress-error-fixing.html</loc>
+        <priority>0.8</priority>
+    </url>
      <url>
         <loc>https://coderhusnain.github.io/DevHusnain.io/portfolio.html</loc>
         <priority>0.8</priority>
