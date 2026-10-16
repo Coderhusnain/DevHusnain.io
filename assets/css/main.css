@@ -1667,7 +1667,7 @@ section,
 }
 
 .hero h2 {
-  font-size: clamp(2.8rem, 7vw, 5.8rem);
+  font-size: clamp(1.4rem, 3.5vw, 2.9rem);
   line-height: 0.95;
   letter-spacing: -0.06em;
   margin-bottom: 1rem;
